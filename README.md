@@ -3,6 +3,9 @@
 Welcome to the **Travel Journal** app! This React-based application showcases travel destinations with images, details, and interactive links. 
 ---
 
+## Deployment link
+https://travel-journal-kenya.netlify.app/
+
 ## ✨ Features
 
 - **Dynamic Travel Entries**: Each entry includes a photo, title, location, Google Maps link, travel dates, and a description.

@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: "./images/mtKenya.jpg",
+            src: "/images/mtKenya.jpg",
             alt: "Mount Kenya"
         },
         title: "Mount Kenya",
@@ -14,7 +14,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "./images/MasaiMara.jpg",
+            src: "/images/MasaiMara.jpg",
             alt: "Masai Mara"
         },
         title: "Masai Mara National Reserve",
@@ -26,7 +26,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "./images/DianiBeach.jpg",
+            src: "/images/DianiBeach.jpg",
             alt: "Diani Beach"
         },
         title: "Diani Beach",

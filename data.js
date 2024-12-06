@@ -1,8 +1,12 @@
+import  mtkenya from "./images/mtKenya.jpg"
+import masaiMara from "./images/MasaiMara.jpg"
+import dianiBeach  from "./images/DianiBeach.jpg"
+
 export default [
     {
         id: 1,
         img: {
-            src: "/images/mtKenya.jpg",
+            src: mtkenya,
             alt: "Mount Kenya"
         },
         title: "Mount Kenya",
@@ -14,7 +18,7 @@ export default [
     {
         id: 2,
         img: {
-            src: "/images/MasaiMara.jpg",
+            src: masaiMara,
             alt: "Masai Mara"
         },
         title: "Masai Mara National Reserve",
@@ -26,7 +30,7 @@ export default [
     {
         id: 3,
         img: {
-            src: "/images/DianiBeach.jpg",
+            src:dianiBeach,
             alt: "Diani Beach"
         },
         title: "Diani Beach",
